@@ -1,0 +1,14 @@
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.csproj.AssemblyReference.cache
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.AssemblyInfoInputs.cache
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.AssemblyInfo.cs
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.csproj.CoreCompileInputs.cache
+C:\Users\geth7\source\repos\PacManv1\PacManv1\bin\Debug\netcoreapp3.1\PacManv1.exe
+C:\Users\geth7\source\repos\PacManv1\PacManv1\bin\Debug\netcoreapp3.1\PacManv1.deps.json
+C:\Users\geth7\source\repos\PacManv1\PacManv1\bin\Debug\netcoreapp3.1\PacManv1.runtimeconfig.json
+C:\Users\geth7\source\repos\PacManv1\PacManv1\bin\Debug\netcoreapp3.1\PacManv1.runtimeconfig.dev.json
+C:\Users\geth7\source\repos\PacManv1\PacManv1\bin\Debug\netcoreapp3.1\PacManv1.dll
+C:\Users\geth7\source\repos\PacManv1\PacManv1\bin\Debug\netcoreapp3.1\PacManv1.pdb
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.dll
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.pdb
+C:\Users\geth7\source\repos\PacManv1\PacManv1\obj\Debug\netcoreapp3.1\PacManv1.genruntimeconfig.cache
